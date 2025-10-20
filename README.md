@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vandhan Talakokkula</h1>
 <h3 align="center">A Passionate Backend Developer with a Machine Learning Twist</h3>
-<h3 align="center">Building scalable systems & chasing clean architecture.</h4>
+<h3 align="center">Building scalable systems & chasing clean architecture.</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvandhan004&label=Profile%20views&color=0e75b6&style=flat" alt="vishvandhan004" /> </p>
@@ -13,13 +14,13 @@
 
 - 📫 How to reach me **talakokkula.vishnu2004@gmail.com**
 
-- ⚡ Fun fact **⚡ Coffee → Code → Repeat.**
+- ⚡ Fun fact    **Coffee → Code → Repeat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishnu-vandhan-talakokkula-1669a4251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-vandhan-talakokkula-1669a4251/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tomato_004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tomato_004" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tomatocultivato1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomatocultivato1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tomatocultivato1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tomatocultivato1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishnuvandhan004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnuvandhan004/" height="30" width="40" /></a>
 </p>
 
